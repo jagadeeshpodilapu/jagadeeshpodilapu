@@ -4,7 +4,7 @@
 - 🔭 Currently working as a **Flutter Developer**
 - 🌱 Learning & building with **Flutter | Dart | React | TypeScript**
 - 💡 Passionate about **scalable mobile apps & great user experiences**
-- 📫 Reach me at: **jagadeeshpodilapu04@gmail.com**
+- 📫 Reach me at: **jagadeesh.podilapu.dev@gmail.com**
 
 ---
 
